@@ -82,6 +82,7 @@ Services:
 
 ```bash
 cd auth-frontend
+npm ci
 npm test
 ```
 
