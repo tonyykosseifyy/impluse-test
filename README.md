@@ -125,3 +125,11 @@ npx playwright install chromium
 # but only needs to be done once
 npm run test:ui
 ```
+
+### Demo Screenshots
+
+<img width="1429" height="762" alt="Screenshot 2026-02-07 at 11 26 20 PM" src="https://github.com/user-attachments/assets/562c6d78-a38f-46d7-8c6f-b72670534703" />
+<img width="1433" height="775" alt="Screenshot 2026-02-07 at 11 22 35 PM" src="https://github.com/user-attachments/assets/e02d74b4-5079-4128-88c3-c26ded1e01fc" />
+<img width="1437" height="768" alt="Screenshot 2026-02-07 at 11 22 25 PM" src="https://github.com/user-attachments/assets/7f3aa6dc-3b06-4f32-abe9-c2258b83beb1" />
+
+
